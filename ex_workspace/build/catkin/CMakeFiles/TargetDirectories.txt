@@ -1,0 +1,13 @@
+/home/dony/Desktop/MyProjects/dony-ee483/ee483-psu-ex-base/Ex1-Training/ex1/ex_workspace/build/catkin/CMakeFiles/download_extra_data.dir
+/home/dony/Desktop/MyProjects/dony-ee483/ee483-psu-ex-base/Ex1-Training/ex1/ex_workspace/build/catkin/CMakeFiles/tests.dir
+/home/dony/Desktop/MyProjects/dony-ee483/ee483-psu-ex-base/Ex1-Training/ex1/ex_workspace/build/catkin/CMakeFiles/run_tests.dir
+/home/dony/Desktop/MyProjects/dony-ee483/ee483-psu-ex-base/Ex1-Training/ex1/ex_workspace/build/catkin/CMakeFiles/clean_test_results.dir
+/home/dony/Desktop/MyProjects/dony-ee483/ee483-psu-ex-base/Ex1-Training/ex1/ex_workspace/build/catkin/CMakeFiles/GMock.dir
+/home/dony/Desktop/MyProjects/dony-ee483/ee483-psu-ex-base/Ex1-Training/ex1/ex_workspace/build/catkin/CMakeFiles/doxygen.dir
+/home/dony/Desktop/MyProjects/dony-ee483/ee483-psu-ex-base/Ex1-Training/ex1/ex_workspace/build/catkin/CMakeFiles/test.dir
+/home/dony/Desktop/MyProjects/dony-ee483/ee483-psu-ex-base/Ex1-Training/ex1/ex_workspace/build/catkin/CMakeFiles/edit_cache.dir
+/home/dony/Desktop/MyProjects/dony-ee483/ee483-psu-ex-base/Ex1-Training/ex1/ex_workspace/build/catkin/CMakeFiles/rebuild_cache.dir
+/home/dony/Desktop/MyProjects/dony-ee483/ee483-psu-ex-base/Ex1-Training/ex1/ex_workspace/build/catkin/CMakeFiles/list_install_components.dir
+/home/dony/Desktop/MyProjects/dony-ee483/ee483-psu-ex-base/Ex1-Training/ex1/ex_workspace/build/catkin/CMakeFiles/install.dir
+/home/dony/Desktop/MyProjects/dony-ee483/ee483-psu-ex-base/Ex1-Training/ex1/ex_workspace/build/catkin/CMakeFiles/install/local.dir
+/home/dony/Desktop/MyProjects/dony-ee483/ee483-psu-ex-base/Ex1-Training/ex1/ex_workspace/build/catkin/CMakeFiles/install/strip.dir

@@ -1,0 +1,1 @@
+/home/dony/Desktop/MyProjects/dony-ee483/ee483-psu-ex-base/Ex1-Training/ex1/ex_workspace/devel/.private/catkin/etc/catkin/profile.d/05.catkin_make_isolated.bash

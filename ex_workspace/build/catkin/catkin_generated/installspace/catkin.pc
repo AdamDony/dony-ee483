@@ -1,0 +1,8 @@
+prefix=/home/dony/Desktop/MyProjects/dony-ee483/ee483-psu-ex-base/Ex1-Training/ex1/ex_workspace/install
+
+Name: catkin
+Description: Description of catkin
+Version: 0.8.10
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

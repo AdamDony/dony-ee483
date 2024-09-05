@@ -1,0 +1,4 @@
+[0m-- Using /usr/src/googletest/googlemock/ as gmock source directory[0m
+[0m-- Using GTest v1.11.0 (parsed from pkg-config)[0m
+/home/dony/Desktop/MyProjects/dony-ee483/ee483-psu-ex-base/Ex1-Training/ex1/ex_workspace/src/catkin/cmake/interrogate_setup_dot_py.py:43: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+  import distutils.core
